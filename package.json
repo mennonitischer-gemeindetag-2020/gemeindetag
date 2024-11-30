@@ -15,7 +15,7 @@
     "node": ">=16.0.0"
   },
   "devDependencies": {
-    "10up-toolkit": "^3.1.0"
+    "10up-toolkit": "^4.3.1"
   },
   "dependencies": {
     "@10up/block-components": "^1.8.2",
